@@ -1,0 +1,4 @@
+--[ Settings
+_G.Prefix = ">"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/deathllyhallows/NightmareAdmin/main/NightmareAdmin.lua"))();
